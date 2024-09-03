@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boa Vindas ao meu perfil 👨‍🎓
 
-<!--
-**Xpsrobert/Xpsrobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Robert Simão dos Santos
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na Linguagem JavaScript
+- Utilizo esse espaço para prototipagem de criações conforme me aprimoro no curso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Meu contato
+  robertdilla@gmail.com
+  robertsantos@alunos.utfpr.edu.br
+  robert.simão.santos@uel.br
+  

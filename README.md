@@ -10,5 +10,5 @@ Meu nome é Robert Simão dos Santos
   
  - robertdilla@gmail.com  
  - robertsantos@alunos.utfpr.edu.br  
- - robert.simão.santos@uel.br
+ - robert.simao.santos@uel.br
   

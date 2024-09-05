@@ -7,7 +7,8 @@ Meu nome é Robert Simão dos Santos
 - Utilizo esse espaço para prototipagem de criações conforme me aprimoro no curso
 
   ## Meu contato
-  robertdilla@gmail.com
-  robertsantos@alunos.utfpr.edu.br
-  robert.simão.santos@uel.br
+  
+ - robertdilla@gmail.com  
+ - robertsantos@alunos.utfpr.edu.br  
+ - robert.simão.santos@uel.br
   

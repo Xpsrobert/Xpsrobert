@@ -2,7 +2,7 @@
 
 Meu nome é Robert Simão dos Santos
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na Linguagem JavaScript
 - Utilizo esse espaço para prototipagem de criações conforme me aprimoro no curso
 
